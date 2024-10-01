@@ -8,5 +8,6 @@ This project utilizes real survey data from data professionals. The raw dataset 
 - [Data Professionals Survey](https://github.com/mkweonn/data-professional-survey-powerbi/blob/main/data%20professional%20survery.xlsx)
 
 ### PowerBI
-- ![PowerBI Dashboard](https://github.com/mkweonn/data-professional-survey-powerbi/blob/main/data%20power%20bi.png)
 - [Interactive Dashboard ](https://github.com/mkweonn/data-professional-survey-powerbi/blob/main/data.pbix)
+![PowerBI Dashboard](https://github.com/mkweonn/data-professional-survey-powerbi/blob/main/data%20power%20bi.png)
+
